@@ -1,0 +1,8 @@
+# 環境変数を管理する.envファイル
+.env
+
+# その他、Pythonのキャッシュファイルなど
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
